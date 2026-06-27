@@ -1,0 +1,7 @@
+Sales Dashboard Insights
+
+1. The West region recorded the highest total sales among all regions.
+
+2. Technology generated the highest share of total sales, followed by Furniture and Office Supplies.
+
+3. Sales showed fluctuations across different months, indicating seasonal variations in business performance.
